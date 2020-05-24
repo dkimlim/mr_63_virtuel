@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "//dkimlim.github.io/mr_63_virtuel/static/css/main.5f361e03.chunk.css",
+    "main.css": "//dkimlim.github.io/mr_63_virtuel/static/css/main.b76a483f.chunk.css",
     "main.js": "//dkimlim.github.io/mr_63_virtuel/static/js/main.e71050b0.chunk.js",
     "main.js.map": "//dkimlim.github.io/mr_63_virtuel/static/js/main.e71050b0.chunk.js.map",
     "runtime-main.js": "//dkimlim.github.io/mr_63_virtuel/static/js/runtime-main.5e141dc2.js",
@@ -8,15 +8,15 @@
     "static/js/2.2407abc4.chunk.js": "//dkimlim.github.io/mr_63_virtuel/static/js/2.2407abc4.chunk.js",
     "static/js/2.2407abc4.chunk.js.map": "//dkimlim.github.io/mr_63_virtuel/static/js/2.2407abc4.chunk.js.map",
     "index.html": "//dkimlim.github.io/mr_63_virtuel/index.html",
-    "precache-manifest.16a3e8358a262af8c6fa0954f5e74048.js": "//dkimlim.github.io/mr_63_virtuel/precache-manifest.16a3e8358a262af8c6fa0954f5e74048.js",
+    "precache-manifest.d65f138c95f492a472f50de318adae02.js": "//dkimlim.github.io/mr_63_virtuel/precache-manifest.d65f138c95f492a472f50de318adae02.js",
     "service-worker.js": "//dkimlim.github.io/mr_63_virtuel/service-worker.js",
-    "static/css/main.5f361e03.chunk.css.map": "//dkimlim.github.io/mr_63_virtuel/static/css/main.5f361e03.chunk.css.map",
+    "static/css/main.b76a483f.chunk.css.map": "//dkimlim.github.io/mr_63_virtuel/static/css/main.b76a483f.chunk.css.map",
     "static/js/2.2407abc4.chunk.js.LICENSE.txt": "//dkimlim.github.io/mr_63_virtuel/static/js/2.2407abc4.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.5e141dc2.js",
     "static/js/2.2407abc4.chunk.js",
-    "static/css/main.5f361e03.chunk.css",
+    "static/css/main.b76a483f.chunk.css",
     "static/js/main.e71050b0.chunk.js"
   ]
 }
